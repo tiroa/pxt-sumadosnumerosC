@@ -1,0 +1,11 @@
+{
+    "name": "pxt-sumadosnumerosC",
+    "description": "Probar suma con cpp",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.cpp"
+    ],
+    "public": true
+}
